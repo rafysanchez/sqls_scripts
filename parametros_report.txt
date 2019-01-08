@@ -1,0 +1,2 @@
+
+"uniges_id=109&uniguarda_id=1760&loc_id=&dep_id=&grp_id=&data_inicial=&data_final=&reg_pat=&dep_situacao=&status_bem=&status_conservacao=&empresa=&blnDataIncorporacao=-1&status_bem_list=,1"
